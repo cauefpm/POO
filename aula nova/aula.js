@@ -9,8 +9,8 @@ class Cliente {
 let cliente = new Cliente();
 
 cliente.nome = prompt ("digite o nome do cliente: ")
-cliente.idade = 21;
-cliente.cpf = "132.495.239-33";
+cliente.idade = 23;
+cliente.cpf = "134.492.239-37";
 cliente.agencia = 102030;
 
 console.log(cliente)
